@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*body{
+	backgroud-color:black;
+}*/
+/*h1{
+	font-family: 'Frijole', cursive;
+    color:white;
+	text-align:center;
+	position:absolute;
+	margin:400px auto auto 385px;
+	font-size:60px;
+}*/
+h1{
+	font-family: 'Frijole', cursive;
+    color:white;
+	top:50%;
+	width:20%;
+	left:20%;
+	position:absolute;
+	text-align:center;
+	font-size:50px;
+}
+h2{
+	font-family: 'Freckle Face', cursive;
+	color:white;
+}
+	
+h2 a:link{
+	color:white;
+	text-decoration:none;
+}
+h2 a:visited{
+	color:white;
+}
+h2 a:hover{
+	color:gold;
+}
+#one{
+	float:right;
+	margin:10% 25% auto auto;
+}
+#two{
+	float:right;
+	margin:20% -10% auto auto;
+}
+#three{
+	float:right;
+	margin:28% -13% auto auto;
+}
+#four{
+	float:right;
+	margin:38% -8% auto auto;
+}

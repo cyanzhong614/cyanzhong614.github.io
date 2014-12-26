@@ -1,0 +1,346 @@
+@charset "UTF-8";
+/* CSS Document */
+#container{
+	width:1200px;
+	margin:0px auto 0px auto;
+}
+h1{
+	font-family: 'Lobster', cursive;
+	text-align:center;
+	color:white;
+}
+h2{
+	font-family: 'Freckle Face', cursive;
+	color:white;
+}
+	
+h2 a:link{
+	color:white;
+	text-decoration:none;
+}
+h2 a:visited{
+	color:white;
+}
+h2 a:hover{
+	color:gold;
+}
+#cyone{
+	
+	float:right;
+	margin:100px 150px auto auto;
+}
+#cytwo{
+	float:right;
+	margin:200px -50px auto auto;
+}
+#cythree{
+	float:right;
+	margin:560px -180px auto auto;
+}
+#cyfour{
+	float:right;
+	margin:700px -260px auto auto;
+}
+/*this is about page*/
+h1{
+	font-family: 'Freckle Face', cursive;
+	text-align:center;
+	color:white;
+}
+nav ul{
+	width:570px;
+	height:25px;
+	text-align:center;
+	padding:15px;
+	margin:0px auto 0px auto;
+	border:3px solid yellow;
+	font-family: 'Iceland', cursive;
+}
+nav li{
+	display:inline;
+	margin:0px 25px;
+}
+nav a:link{
+	color:white;
+	text-decoration:none;
+}
+nav a:visited {
+	color:white;
+}
+nav a:hover{
+	colors:gold;
+}
+
+h2{
+	color:white;
+	text-align:center;
+	font-family: 'Iceland', cursive;
+}
+#abone{
+	color:white;
+	border:2px solid yellow;
+	padding:20px;
+	width:500px;
+	margin:80px 600px auto auto;
+}
+#abtwo{
+	color:white;
+	border:2px solid yellow;
+	padding:20px;
+	width:500px;
+	margin:auto 500px auto 500px;
+}
+#abthree{
+	color:white;
+	border:2px solid yellow;
+	padding: 20px;
+	width:500px;
+	left:500px;
+	margin:15px auto auto 800px;
+}
+#abhand{
+	float:right;
+}
+#abpsu{
+	float:right;
+}
+#abbig{
+	float:right;
+}
+#aball{
+	float:right;
+}
+#absing{
+	float:right;
+}
+#abxmas{
+	float:right;
+}
+#abfish{
+	float:right;
+}
+#abbj{
+	float:right;
+}
+#abcage{
+	float:right;
+}
+#abpretty{
+	float:right;
+}
+#abroks{
+	float:right;
+}
+#abroks2{
+	float:right;
+}
+#abbirth{
+	float:right;
+}
+#absis{
+	float:right;
+}
+#abfl{
+	float:right;
+}
+#abhair{
+	float:right;
+}
+#abmun{
+	float:right;
+}
+#abfood{
+	float:right;
+}
+#abhycs{
+	float:right;
+}
+
+/*this is the portfolio page*/
+
+
+#poone{
+	margin:60px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#potwo{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#pothree{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#pofour{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#pofive{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+	
+h2{
+	color:white;
+	font-family: 'Iceland', cursive;
+}
+#posix{
+	color:white;
+	font-size:30px;
+	font-family: 'Iceland', cursive;
+	width:-50px;
+	float:left;
+}
+
+p{
+	color:white;
+	font-size:20px;
+}
+#polight{
+	
+	margin:50px 1000px auto auto;
+}
+#poeyelash{
+	
+	margin:-350px auto auto 250px;
+}
+#poconfuse{
+	float:left;
+	margin:0px auto auto 250px;
+}
+#popocket{
+	float:left;
+	margin:-360px auto auto 520px;
+}
+#popiano1{
+	float:left;
+	margin:-180px auto auto 520px;
+}
+#cmt{
+	border:3px solid yellow;
+	margin:-180px auto auto 800px;
+	width:500px;
+	height:310px;
+	padding:25px;
+}
+
+#poleft{
+	text-align:left;
+	width:1480px;
+	margin:50px auto auto 0px;
+}
+ #poseven{
+	 color:white;
+	font-size:30px;
+	font-family: 'Iceland', cursive;
+	width:-50px;
+	float:left;
+ }
+#poposter{
+	float:right;
+	margin:-450px 700px auto auto;
+}
+#cmt2{
+	float:right;
+	border:3px solid yellow;
+	margin:50px 0px auto auto;
+	width:500px;
+	height:400px;
+	padding:20px;
+}
+	
+/*this is the ftprints page*/
+
+
+#ftdc{
+	float:left;
+}
+#ftele{
+	float:right;
+}
+p{
+	color:white;
+	font-family: 'Iceland', cursive;
+}
+#ftsm{
+	text-align:right;
+}
+#ftsing{
+	float:left;
+	margin: 180px auto auto -250px;
+	
+	
+}
+#ftqbc{
+	float:right;
+	margin:180px -250px auto auto;
+}
+#ftroks{
+	float:left;
+	margin:380px auto auto -250px;
+}
+#ftjp{
+	text-align:right;
+}
+#ftnas{
+	margin:80px auto auto auto;
+}
+#ftsea{
+	float:right;
+	margin:380px -250px auto auto;
+}
+#ftwater{
+	text-align:right;
+}
+#ftgang{
+	float:left;
+	margin:580px auto auto -250px;
+}
+#ftgang4{
+	margin:80px auto auto auto;
+}
+#fttrain{
+	float:right;
+	margin:580px -250px auto auto;
+}
+#ftbus{
+	text-align:right;
+}
+#ftwn{
+	float:left;
+	margin:760px auto auto -250px;
+}
+#ftwnn{
+	margin:80px auto auto auto;
+}
+#ftsky{
+	float:right;
+	margin:780px -250px auto auto;
+}
+#ftchi{
+	text-align:right;
+}
+	
+/*this is the timeline*/
+/*h1{
+   font-family: 'Freckle Face', cursive;
+   text-align:center;
+   color:white;
+}*/
+
+p{
+	text-align:center;
+	color:white;
+	font-family: 'Iceland', cursive;
+	
+}
+#titime{
+	float:right;
+	width:200px;
+	height:100px;
+	margin: 0px 50px auto auto;
+}
+#titurner{
+	float:left;
+}
+

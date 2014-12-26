@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+/*body{
+	background-color:black;
+}*/
+h1{
+   font-family: 'Freckle Face', cursive;
+   text-align:center;
+   color:white;
+}
+nav ul{
+	width:150px;
+	height:100px;
+	text-align:right;
+	padding:15px;
+	margin:0px auto 0px 10px;
+}
+nav li{
+	display:inline;
+	margin:0px 25px;
+}
+nav a:link{
+	color:white;
+	text-decoration:none;
+}
+nav a:visited {
+	color:white;
+}
+nav a:hover{
+	colors:gold;
+}
+
+#one{
+	border:3px solid cyan;
+	margin:auto auto auto 50px;
+}
+#two{
+	border:3px solid cyan;
+	margin:auto auto auto 30px;
+}
+#three{
+	border:3px solid cyan;
+	margin:auto auto auto 5px;
+}
+#four{
+	border:3px solid cyan;
+	margin:auto auto auto 30px;
+}
+#five{
+	border:3px solid cyan;
+	margin:auto auto auto 50px;
+}
+h2{
+	color:white;
+}
+p{
+	text-align:center;
+	color:white;
+	font-family: 'Prosto One', cursive;
+	font-size:18px;
+}
+#time{
+	float:right;
+	width:200px;
+	height:100px;
+	margin:-200px 150px auto auto;
+}
+#turner{
+	float:left;
+}

@@ -1,0 +1,118 @@
+@charset "UTF-8";
+/* CSS Document */
+/*body{
+	background-color:black;
+}*/
+h1{
+	font-family: 'Freckle Face', cursive;
+	text-align:center;
+	color:white;
+}
+nav ul{
+	width:570px;
+	height:25px;
+	text-align:center;
+	padding:15px;
+	margin:0px auto 0px auto;
+	border:3px solid yellow;
+	font-family: 'Iceland', cursive;
+}
+nav li{
+	display:inline;
+	margin:0px 25px;
+}
+nav a:link{
+	color:white;
+	text-decoration:none;
+}
+nav a:visited {
+	color:white;
+}
+nav a:hover{
+	colors:gold;
+}
+
+h2{
+	color:white;
+	text-align:center;
+	font-family: 'Iceland', cursive;
+}
+#one{
+	color:white;
+	border:2px solid yellow;
+	padding:20px;
+	width:500px;
+	margin:50px 800px auto auto;
+}
+#two{
+	color:white;
+	border:2px solid yellow;
+	padding:20px;
+	width:500px;
+	margin:auto auto auto 500px;
+}
+#three{
+	color:white;
+	border:2px solid yellow;
+	padding: 20px;
+	width:500px;
+	left:500px;
+	margin:15px auto auto 800px;
+}
+#hand{
+	float:right;
+}
+#psu{
+	float:right;
+}
+#big{
+	float:right;
+}
+#all{
+	float:right;
+}
+#sing{
+	float:right;
+}
+#xmas{
+	float:right;
+}
+#fish{
+	float:right;
+}
+#bj{
+	float:right;
+}
+#cage{
+	float:right;
+}
+#pretty{
+	float:right;
+}
+#roks{
+	float:right;
+}
+#roks2{
+	float:right;
+}
+#birth{
+	float:right;
+}
+#sis{
+	float:right;
+}
+#fl{
+	float:right;
+}
+#hair{
+	float:right;
+}
+#mun{
+	float:right;
+}
+#food{
+	float:right;
+}
+#hycs{
+	float:right;
+}

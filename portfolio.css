@@ -1,0 +1,153 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*body{
+	background-color:black;
+}*/
+h1{
+   font-family: 'Freckle Face', cursive;
+   text-align:center;
+   color:white;
+}
+nav ul{
+	width:570px;
+	height:25px;
+	text-align:left;
+	padding:15px;
+	margin:0px auto 0px auto;
+	border:3px solid pink;
+	font-family: 'Iceland', cursive;
+}
+nav li{
+	display:inline;
+	margin:0px 25px;
+}
+nav a:link{
+	color:white;
+	text-decoration:none;
+}
+nav a:visited {
+	color:white;
+}
+nav a:hover{
+	colors:gold;
+}
+#one{
+	margin:60px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#two{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#three{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#four{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+#five{
+	margin:100px auto auto -20px;
+	font-family: 'Iceland', cursive;
+}
+	
+nav li{
+	
+	margin:0px 25px;
+	text-decoration:none;
+}
+
+/**display:list-item;**/
+
+nav a:link{
+	color:white;
+	text-decoration:none;
+}
+nav a:visited {
+	color:white;
+}
+nav a:active{
+	colors:white;
+}
+nav a:hover{
+	colors:white;
+}
+h2{
+	color:white;
+	font-family: 'Iceland', cursive;
+}
+#six{
+	color:white;
+	font-size:30px;
+	font-family: 'Iceland', cursive;
+	width:-50px;
+	float:left;
+}
+#seven{
+	color:white;
+	font-size:30px;
+	text-align:right;
+	font-family: 'Iceland', cursive;
+	width:-10px;
+	margin:10px auto auto auto auto;
+	float:right;
+}
+p{
+	color:white;
+	font-size:20px;
+}
+#light{
+	float:left;
+	margin:50px auto auto -20px;
+}
+#eyelash{
+	float:left;
+	margin:50px auto auto 3px;
+}
+#confuse{
+	float:left;
+	margin:260px auto auto -250px;
+}
+#pocket{
+	float:left;
+	margin:403px auto auto -475px;
+}
+#snow{
+	float:left;
+	margin:50px auto auto 0px;
+}
+#piano1{
+	float:left;
+	margin:200px auto auto -220px;
+}
+#picnic{
+	float:left;
+	margin:350px auto auto -220px;
+}
+#phone{
+	float:left;
+	margin:403px auto auto -400px;
+}
+#sofa{
+	float:left;
+	margin:500px auto auto -220px;
+}
+/*#right{
+	text-align:center;
+	border:3px solid pink;
+	width:200px;
+	margin:-20px 12px auto auto;
+}*/
+#left{
+	text-align:left;
+	border:3px solid pink;
+	width:1480px;
+	margin:50px auto auto 0px;
+}
+#poster{
+	float:right;
+	margin:50px -20px auto auto;
+}
+	

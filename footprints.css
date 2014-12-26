@@ -1,0 +1,106 @@
+@charset "UTF-8";
+/* CSS Document */
+/*body{
+	background-color:black;
+}*/
+h1{
+	color:white;
+	font-family: 'Freckle Face', cursive;
+	text-align:center;
+}
+nav ul{
+	width:700px;
+	height:35px;
+	text-align:center;
+	padding:15px;
+	margin:0px auto 0px auto;
+	border:3px solid green;
+	font-family: 'Iceland', cursive;
+}
+nav li{
+	display:inline;
+	margin:0px 25px;
+}
+nav a:link{
+	color:white;
+	text-decoration:none;
+}
+nav a:visited {
+	color:white;
+}
+nav a:hover{
+	colors:gold;
+}
+h2{
+	color:white;
+	font-family: 'Iceland', cursive;
+	text-align:center;
+	font-size:20px;
+
+}
+#dc{
+	float:left;
+}
+#ele{
+	float:right;
+}
+p{
+	color:white;
+}
+#sm{
+	text-align:right;
+}
+#sing{
+	float:left;
+	margin:180px auto auto -250px;
+}
+#qbc{
+	float:right;
+	margin:180px -250px auto auto;
+}
+#roks{
+	float:left;
+	margin:380px auto auto -250px;
+}
+#jp{
+	text-align:right;
+}
+#nas{
+	margin:80px auto auto auto;
+}
+#sea{
+	float:right;
+	margin:380px -250px auto auto;
+}
+#water{
+	text-align:right;
+}
+#gang{
+	float:left;
+	margin:580px auto auto -250px;
+}
+#gang4{
+	margin:80px auto auto auto;
+}
+#train{
+	float:right;
+	margin:580px -250px auto auto;
+}
+#bus{
+	text-align:right;
+}
+#wn{
+	float:left;
+	margin:760px auto auto -250px;
+}
+#wnn{
+	margin:80px auto auto auto;
+}
+#sky{
+	float:right;
+	margin:780px -250px auto auto;
+}
+#chi{
+	text-align:right;
+}
+	
